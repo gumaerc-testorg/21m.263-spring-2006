@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening
 uid: f8488bbb-a44e-06f7-56c3-8d9ebcb8b2e0
 ---
