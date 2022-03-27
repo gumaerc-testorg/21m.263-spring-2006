@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f1bc1b15-cffb-73fd-ce67-40eae2e94b9c
 resourcetype: Document
 title: Further Thoughts
 uid: bfa4e50b-cdff-4af0-0839-630806c6c233

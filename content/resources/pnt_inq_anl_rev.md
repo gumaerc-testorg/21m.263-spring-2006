@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f1bc1b15-cffb-73fd-ce67-40eae2e94b9c
 resourcetype: Document
 title: 'Analytic reviews of performances: Some points of inquiry'
 uid: 8a9c0b8a-a07f-a5f9-5ba0-6188b575d09e
