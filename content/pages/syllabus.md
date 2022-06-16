@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, textbooks, classroom preparation and participation, quizzes, assignments,
+  and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,7 +28,7 @@ Griffiths, Paul. _Modern Music and After: Directions Since 1945_. 2nd ed. New Yo
 
 Duckworth, William. _Talking Music: Conversations with John Cage, Philip Glass, Laurie Anderson and 5 Generations of American Experimental Composers_. Cambridge, MA: Da Capo Press, 1999. ISBN: 9780306808937.
 
-Additional [readings]({{< baseurl >}}/pages/readings) are assigned from several other sources.
+Additional {{% resource_link ebae41f6-2abc-399c-0c16-bd5a6a8adfec "readings" %}} are assigned from several other sources.
 
 Classroom Preparation and Participation
 ---------------------------------------
