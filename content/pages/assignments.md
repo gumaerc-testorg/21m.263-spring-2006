@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides information on the two forms of assignment for
+  the course: written reviews of live performances and a term paper plus presentation.'
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: f1bc1b15-cffb-73fd-ce67-40eae2e94b9c
 ---
@@ -11,9 +16,9 @@ Analytic Reviews of Live Performances
 
 You're required to submit four reviews, each evaluating a live performance of a suitable musical work. Each review ought to be 1-3 pp. in length (ca. 500 words), and ought to distinguish between the strengths and weaknesses of the work and of the performance (e.g., a piece might be brilliantly composed, but sloppily performed... or vice versa). Toward the latter end, you ought to learn as much as possible about each piece before attending the performance, especially if a recorded performance is available by which you can familiarize yourself with the work.
 
-Some Points of Inquiry ([PDF]({{< baseurl >}}/resources/pnt_inq_anl_rev))
+Some Points of Inquiry ({{% resource_link 8a9c0b8a-a07f-a5f9-5ba0-6188b575d09e "PDF" %}})
 
-Further Thoughts ([PDF]({{< baseurl >}}/resources/further_thoughts))
+Further Thoughts ({{% resource_link bfa4e50b-cdff-4af0-0839-630806c6c233 "PDF" %}})
 
 Term Paper and Presentation
 ---------------------------
