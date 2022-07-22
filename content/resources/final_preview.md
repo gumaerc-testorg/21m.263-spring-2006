@@ -5,6 +5,7 @@ file: /courses/21m-263-music-since-1960-spring-2006/0d7020309d1741b1e156001b8b06
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Preview of the Final Exam
 uid: 0d702030-9d17-41b1-e156-001b8b06ed93
 ---
 Study materials for the final exam.
-

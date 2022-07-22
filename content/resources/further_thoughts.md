@@ -5,6 +5,7 @@ file: /courses/21m-263-music-since-1960-spring-2006/bfa4e50bcdff4af00839630806c6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Further Thoughts
 uid: bfa4e50b-cdff-4af0-0839-630806c6c233
 ---
 Tips on evaluating a live musical performance.
-
