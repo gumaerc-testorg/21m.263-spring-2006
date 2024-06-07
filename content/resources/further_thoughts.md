@@ -2,6 +2,7 @@
 content_type: resource
 description: Tips on evaluating a live musical performance.
 file: /courses/21m-263-music-since-1960-spring-2006/bfa4e50bcdff4af00839630806c6c233_further_thoughts.pdf
+file_size: 46285
 file_type: application/pdf
 learning_resource_types:
 - Assignments

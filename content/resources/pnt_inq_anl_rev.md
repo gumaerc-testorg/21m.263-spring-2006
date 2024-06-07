@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Some typical points of inquiry for analytic reviews of live performances. '
 file: /courses/21m-263-music-since-1960-spring-2006/8a9c0b8aa07fa5f95ba06188b575d09e_pnt_inq_anl_rev.pdf
+file_size: 67332
 file_type: application/pdf
 learning_resource_types:
 - Assignments
