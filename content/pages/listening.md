@@ -254,7 +254,7 @@ Boulez, Pierre. "Répons." (1981-84). Sections 1, 2, 5, and 6. InterContemporain
   
 Benjamin, George. Antara (1985-87) London Sinfonietta. Richard Blake, Sebastian Bell, Ishiro Nodaira, and Pierre-Laurent Aimard. A Mind of Winter. Nimbus Records, 2000.  
   
-Davidovsky, Mario. "Synchronisms no. 9." (1988). ({{% resource_link "1e058f0f-321b-4927-95a5-ecb033183404" "RM" %}})
+Davidovsky, Mario. "Synchronisms no. 9." (1988). ([RM](https://open.spotify.com/album/6soqFlhkwbQQKHQG3hXtiy?highlight=spotify:track:5cx2BN274Yk6El2T4RPl3h))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -385,7 +385,7 @@ Andriessen, Louis. "De Staat." (1973-76). Arnold Schoenberg Choir. _De Staat_. N
   
 Pärt, Arvo. "Berlin Mass." (1990). Christopher Bowers-Broadbent. _I Am The True Vine: Arvo Part_. Harmonia Mundi, 2000.  
   
-{{% resource_link "955fb879-f7c3-4f79-9bd2-a8de6352c375" "" %}}Adams, John. "Nixon in China." (1985-87). St Luke's Chorus, St Luke's Orchestra. Sanford Sylvan, James Maddalena, et al. _Nixon in China_. Nonesuch, 1999.  
+[](http://www.amazon.co.uk/dp/B000005IYW/mitopencourse-20)Adams, John. "Nixon in China." (1985-87). St Luke's Chorus, St Luke's Orchestra. Sanford Sylvan, James Maddalena, et al. _Nixon in China_. Nonesuch, 1999.  
 Act I, Scene 1: "Landing of the Spirit of '76," "Your flight was smooth, I hope?," and "News has a kind of mystery."  
 Act III: "You won at poker," and "I am old and cannot sleep."
 {{< tdclose >}}
@@ -472,7 +472,7 @@ Tan, Dun. "Ghost opera." (1994). Kronos Quartet. Donald Hamilton, Wu Man. _Ghost
   
 Higdon, Jennifer. "running the edgE." (1996). _Lesbian American Composers_. Composers Recordings, 1998.  
   
-Child, Peter. "Fantasia." (2003) Mark Kroll. _The Contemporary Harpsichord_. Albany Records, 2004. A longer 2 minute sample is also available at {{% resource_link "d0167097-7b43-4eee-8d55-9161127dab40" "Peter Child's Compositions" %}} page.  
+Child, Peter. "Fantasia." (2003) Mark Kroll. _The Contemporary Harpsichord_. Albany Records, 2004. A longer 2 minute sample is also available at [Peter Child's Compositions](http://en.wikipedia.org/wiki/Peter_Child) page.  
   
 Shadle, Charles. "The penny ballad of Elvious Ricks." (2005). No recording available.
 {{< tdclose >}}
